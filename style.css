@@ -1,0 +1,106 @@
+.u1{
+	list-style: none;
+	display: inline-block;
+}
+.u2{
+	list-style: none;
+	display: inline-block;
+	font-size: 50px;
+	padding-top: 5px;
+	padding-right: 30px;
+}
+.u21{
+	padding-right: 20px;
+}
+.t1{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+}
+.d1{
+	padding-top: 40px;
+}
+.t1-item1{
+	width: 200px;
+}
+.t1-item2{
+	width: 200px;
+}
+.t1-item3{
+	width: 200px;
+}
+.t1-item4{
+	width: 200px;
+}
+.t3{
+	margin-top: 20px;
+}
+nav{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: -15px;
+}
+.n1{
+	margin-right: 250px;
+}
+.nav-item{
+	padding-left: 20px;
+}
+.a1:hover{
+	background-color: gray;
+}
+.t5{
+	margin-top: -30px;
+}
+.t4{
+	background-color: black;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	padding-bottom: 40px;
+}
+*{
+	background-color: black;
+}
+.item .thumb {
+	width: 25%;
+	cursor: pointer;
+	float: left;
+}
+.item .thumb img {
+	width: 100%;
+	margin: 2px;
+}
+.item img {
+	width: 100%;	
+}
+.t6{
+	list-style: none;
+	display: inline-block;
+	padding: 50px;
+	background-color: rgb(63, 55, 55);
+	margin-left: auto;
+	margin-right: 20px;
+	border-radius: 20px;
+}
+.t7{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	padding-left: 80px;
+	background-color: black;
+
+}
+figcaption{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	padding-top: 10px;
+}
+.v1{
+	padding-top: 70px;
+}
